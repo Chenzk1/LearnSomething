@@ -14,8 +14,9 @@
 
 #### pointwise/ctr
 
-*[系列博客](https://www.jianshu.com/nb/21403842)*
-*还有一些其他模型，例如DeepFM的推广xDeepFM, DIEN, DSIN, ESM2, et c.* 
+**[系列博客](https://www.jianshu.com/nb/21403842)**
+
+**还有一些其他模型，例如DeepFM的推广xDeepFM, DIEN, DSIN, ESM2, et c.** 
 
 - lr
 - fm: [paper](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
