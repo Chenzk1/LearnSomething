@@ -12,7 +12,7 @@
 
 ## leetcode
 
-** 一周五道，语言不限 **
+**一周五道，语言不限**
 
 - [2020.10.19~2020.10.25](https://github.com/Chenzk1/LearnSomething/blob/main/leetcode/2020.10.19~2020.10.25.md)
 
