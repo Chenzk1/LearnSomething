@@ -2,11 +2,13 @@
 
 ## 算法学习
 
-### cv
+学习路线或者学习计划。
 
-### nlp
+### [cv](https://github.com/Chenzk1/LearnSomething/tree/main/cv)
 
-### dm
+### [nlp](https://github.com/Chenzk1/LearnSomething/tree/main/nlp)
+
+### [dm](https://github.com/Chenzk1/LearnSomething/tree/main/dm)
 
 ## DS
 
@@ -15,4 +17,3 @@
 
 ### C++ 
 
-### Python
