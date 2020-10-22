@@ -16,6 +16,10 @@ ResNet
 
 SENet
 
+Inception系列
+
+Xception
+
 轻量级网络 (MobileNet, ShuffleNet)
 
 ### 比赛：
