@@ -22,6 +22,11 @@ SENet
 
 [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/overview)，[第一名](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984)
 
+[Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)，第一名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)和[代码](https://github.com/earhian/Humpback-Whale-Identification-1st-)，
+[第2名的代码](https://github.com/SeuTao/Humpback-Whale-Identification-Challenge-2019_2nd_palce_solution)，
+第3名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82484)和[代码](https://github.com/pudae/kaggle-humpback)，
+第4名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82356)
+
 
 
 ## 检测
@@ -38,7 +43,9 @@ anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](ht
 
 [RetinaNet和Focal Loss](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)
 
-数据集/榜单：MS COCO，PASCAL VOC
+###数据集/榜单
+
+MS COCO，PASCAL VOC
 
 ## 分割
 
@@ -56,11 +63,28 @@ anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](ht
 
 [CAM](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)（虽然不是分割的，但是在弱监督分割里面很常用）
 
-数据集/榜单：PASCAL VOC，[Cityscape](https://www.cityscapes-dataset.com/)（可以一直提交）
+[HRNet](http://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.html)，也可以做分类、检测和人体姿态估计
+
+### 数据集/榜单
+
+PASCAL VOC
+
+[Cityscape](https://www.cityscapes-dataset.com/)（可以一直提交，[第2名](https://arxiv.org/abs/2005.10821)，[第3名](https://arxiv.org/abs/2005.10266),[第4名](https://arxiv.org/abs/1909.11065)，[第5名](https://arxiv.org/abs/1911.10194)）
+
+[TGS salt identification](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview)，[第1名](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291)，[第4名](https://github.com/SeuTao/TGS-Salt-Identification-Challenge-2018-_4th_place_solution)，[第11名](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69093)
+
+[2019 年县域农业大脑AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231717/introduction)（天池平台需要报名参赛才能下载数据），
+[第1名](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.6.25ea4054p7VT3O&postId=78945)，
+[第2名](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.25ea4054sdzwGN&postId=79094)
 
 ## 图像检索
 
-数据集/榜单：[Google Landmark Retrieval](https://www.kaggle.com/c/landmark-retrieval-2019/data)，[第一名](https://www.kaggle.com/c/landmark-retrieval-2019/discussion/94735)，[第二名](https://www.kaggle.com/c/landmark-retrieval-2019/discussion/95174)
+数据集/榜单
+
+[Google Landmark Retrieval](https://www.kaggle.com/c/landmark-recognition-2020)（2020年的比赛，kernel-only，只需要提交一个做特征提取的模型、无需后处理），
+第1名的[方案](https://www.kaggle.com/c/landmark-recognition-2020/discussion/187821)、[代码](https://github.com/psinger/kaggle-landmark-recognition-2020-1st-place)和[paper](https://arxiv.org/abs/2010.01650)，
+第2名的[方案](https://www.kaggle.com/c/landmark-recognition-2020/discussion/188299)和[代码](https://www.kaggle.com/c/landmark-recognition-2020/discussion/188299)，
+第3名的[代码](https://github.com/haqishen/Google-Landmark-Recognition-2020-3rd-Place-Solution)
 
 
 
@@ -68,9 +92,13 @@ anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](ht
 
 评价指标：SROCC，PLCC
 
+[RANK4IQA](https://arxiv.org/abs/1712.05444)
+
 ## 关键点检测
 
-HRNet
+[HourGlass](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_29)，也可以用来做人体姿态估计（和关键点检测是同一类任务）
 
-## 比赛
+## 图像配准
+
+Voxelmorph，[论文](https://ieeexplore.ieee.org/abstract/document/8633930/)，[代码](https://github.com/voxelmorph/voxelmorph)
 
