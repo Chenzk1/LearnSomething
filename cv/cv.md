@@ -75,6 +75,8 @@ PASCAL VOC
 
 [Cityscape](https://www.cityscapes-dataset.com/)（可以一直提交，[第2名](https://arxiv.org/abs/2005.10821)，[第3名](https://arxiv.org/abs/2005.10266),[第4名](https://arxiv.org/abs/1909.11065)，[第5名](https://arxiv.org/abs/1911.10194)）
 
+[KITTI](http://www.cvlibs.net/datasets/kitti/eval_semseg.php?benchmark=semantics2015)
+
 [TGS salt identification](https://www.kaggle.com/c/tgs-salt-identification-challenge/overview)，[第1名](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291)，[第4名](https://github.com/SeuTao/TGS-Salt-Identification-Challenge-2018-_4th_place_solution)，[第11名](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69093)
 
 [2019 年县域农业大脑AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231717/introduction)（天池平台需要报名参赛才能下载数据），
