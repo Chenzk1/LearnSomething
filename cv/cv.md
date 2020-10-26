@@ -27,11 +27,35 @@ Xception
 [Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/overview)，[第一名](https://www.kaggle.com/c/bengaliai-cv19/discussion/135984)
 
 [Humpback Whale Identification](https://www.kaggle.com/c/humpback-whale-identification/overview)，第一名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82366)和[代码](https://github.com/earhian/Humpback-Whale-Identification-1st-)，
-[第2名的代码](https://github.com/SeuTao/Humpback-Whale-Identification-Challenge-2019_2nd_palce_solution)，
+第2名的[代码](https://github.com/SeuTao/Humpback-Whale-Identification-Challenge-2019_2nd_palce_solution)，
 第3名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82484)和[代码](https://github.com/pudae/kaggle-humpback)，
 第4名的[方案](https://www.kaggle.com/c/humpback-whale-identification/discussion/82356)
 
+## GAN
 
+[GAN](https://arxiv.org/abs/1406.2661)
+
+[cGAN](https://arxiv.org/abs/1411.1784)
+
+[DCGAN](https://arxiv.org/abs/1511.06434)
+
+[wGAN](https://arxiv.org/abs/1701.07875)
+
+[CycleGAN](https://arxiv.org/abs/1703.10593)
+
+[StyleGAN](https://arxiv.org/abs/1812.04948)
+
+[pixel-2-pixel](https://arxiv.org/abs/1611.07004)
+
+## 图像超分辨率 （超分）
+
+[SRCNN](https://arxiv.org/abs/1501.00092)
+
+[SRGAN](https://arxiv.org/abs/1609.04802)
+
+[EDSR](https://arxiv.org/abs/1707.02921)
+
+[ESRGAN](https://arxiv.org/abs/1809.00219)
 
 ## 检测
 
