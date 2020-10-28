@@ -2,7 +2,7 @@
 
 ## 传统图像处理
 
-- SIFT
+- SIFT: [blog](https://chenzk1.github.io/2020/10/27/CV-SIFT/)
 - SURF
 
 ## 分类
