@@ -19,6 +19,8 @@ ResNet
 
 SENet
 
+DenseNet
+
 Inception系列
 
 Xception
@@ -78,7 +80,7 @@ anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](ht
 
 [RetinaNet和Focal Loss](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)
 
-###数据集/榜单
+### 数据集/榜单
 
 MS COCO，PASCAL VOC
 
