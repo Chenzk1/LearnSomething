@@ -1,5 +1,9 @@
 # dm
 
+## 学习资料
+
+- [相关会议/期刊](https://chenzk1.github.io/2020/10/26/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99-%E4%BC%9A%E8%AE%AE&%E6%9C%9F%E5%88%8A/)
+
 ## 排序，learn2rank
 
 ### metrics

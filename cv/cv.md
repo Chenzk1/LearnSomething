@@ -2,13 +2,16 @@
 
 ## 传统图像处理
 
-SIFT
-
-SURF
+- SIFT: [blog](https://chenzk1.github.io/2020/10/27/CV-SIFT/)
+- SURF
 
 ## 分类
 
-评价指标：Precision, Recall, AUC, ROC曲线，P-R曲线，FPR，TPR
+### 评价指标
+
+- Precision, Recall, AUC, ROC曲线，P-R曲线，FPR，TPR: [blog](https://chenzk1.github.io/2020/10/26/%E5%88%86%E7%B1%BBmetrics/)
+
+### 模型
 
 VGG
 
