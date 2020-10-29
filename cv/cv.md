@@ -62,7 +62,11 @@ Xception
 
 ## 检测
 
-评价指标：AP，IoU，mIoU
+### metrics
+
+- [blog](https://chenzk1.github.io/2020/10/26/ML-metrics/?highlight=metrics)
+
+### model
 
 [YOLO系列](https://zhuanlan.zhihu.com/p/136382095A)
 
