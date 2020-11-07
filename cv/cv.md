@@ -13,19 +13,11 @@
 
 ### 模型
 
-VGG
 
-ResNet
-
-SENet
-
-DenseNet
-
-Inception系列
-
-Xception
-
-轻量级网络 (MobileNet, ShuffleNet)
+- VGG/ResNet/SENet/DenseNet: [Ref_Blog](https://www.cnblogs.com/eilearn/p/9044446.html)
+- Inception系列: [Ref_Blog](https://zhuanlan.zhihu.com/p/30756181)
+- Xception
+- 轻量级网络 (MobileNet, ShuffleNet)
 
 ### 比赛：
 
@@ -70,19 +62,15 @@ Xception
 
 ### model
 
-[YOLO系列](https://zhuanlan.zhihu.com/p/136382095A)
-
-R-CNN：R-CNN, [Fast-RCNN](http://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html), [Faster R-CNN](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks), [Mask R-CNN](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html), [Cascade R-CNN](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html)
-
-工具包：[mmdetection](https://mmdetection.readthedocs.io/en/latest/)
-
-anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](http://openaccess.thecvf.com/content_ICCV_2019/html/Duan_CenterNet_Keypoint_Triplets_for_Object_Detection_ICCV_2019_paper.html)，[CornerNet](http://openaccess.thecvf.com/content_ECCV_2018/html/Hei_Law_CornerNet_Detecting_Objects_ECCV_2018_paper.html)，[FCOS](http://openaccess.thecvf.com/content_ICCV_2019/html/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.html)，[YOLO系列](https://zhuanlan.zhihu.com/p/136382095)
-
-[RetinaNet和Focal Loss](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)
+- [YOLO系列](https://zhuanlan.zhihu.com/p/136382095A)
+- R-CNN：R-CNN, [Fast-RCNN](http://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html), [Faster R-CNN](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks), [Mask R-CNN](http://openaccess.thecvf.com/content_iccv_2017/html/He_Mask_R-CNN_ICCV_2017_paper.html), [Cascade R-CNN](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html): [Ref_Blog](https://zhuanlan.zhihu.com/p/137913221)
+- 工具包：[mmdetection](https://mmdetection.readthedocs.io/en/latest/)
+- anchor-free方法：[Densebox](https://arxiv.org/abs/1509.04874), [CenterNet](http://openaccess.thecvf.com/content_ICCV_2019/html/Duan_CenterNet_Keypoint_Triplets_for_Object_Detection_ICCV_2019_paper.html)，[CornerNet](http://openaccess.thecvf.com/content_ECCV_2018/html/Hei_Law_CornerNet_Detecting_Objects_ECCV_2018_paper.html)，[FCOS](http://openaccess.thecvf.com/content_ICCV_2019/html/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.html)，[YOLO系列](https://zhuanlan.zhihu.com/p/136382095)
+- [RetinaNet和Focal Loss](http://openaccess.thecvf.com/content_iccv_2017/html/Lin_Focal_Loss_for_ICCV_2017_paper.html)
 
 ### 数据集/榜单
 
-MS COCO，PASCAL VOC
+- MS COCO，PASCAL VOC
 
 ## 分割
 

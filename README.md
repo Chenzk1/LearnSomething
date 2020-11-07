@@ -15,8 +15,9 @@
 **一周五道，语言不限**
 
 - [2020.10.19~2020.10.25](https://github.com/Chenzk1/LearnSomething/blob/main/leetcode/2020.10.19~2020.10.25.md)
-
 - [2020.10.26~2020.11.1](https://github.com/Chenzk1/LearnSomething/blob/main/leetcode/2020.10.26~2020.11.1.md)
+- [2020.11.02~2020.11.08](https://github.com/Chenzk1/LearnSomething/blob/main/leetcode/2020.11.02~2020.11.08.md)
+- [2020.11.09~2020.11.15](https://github.com/Chenzk1/LearnSomething/blob/main/leetcode/2020.11.09~2020.11.15.md)
 
 ## 语言
 
